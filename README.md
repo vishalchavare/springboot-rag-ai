@@ -104,7 +104,7 @@ http://localhost:8080
 **Vishal Chavare**
 
 GitHub  
-https://github.com/vishalchavare
+[https://github.com/vishalchavare](https://www.linkedin.com/in/vishal-chavare/)
 
 ---
 
